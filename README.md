@@ -9,3 +9,5 @@ Spring boot hello service
 ###Deploy:
 
  > make deploy
+
+ - Deployed URL: http://localhost/hello
