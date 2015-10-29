@@ -1,4 +1,4 @@
-package mx.kiteso.KIteso.config;
+package com.demo.Demo1.config;
 
 import java.io.IOException;
 
